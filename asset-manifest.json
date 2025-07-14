@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/Inspire_Quote_app/static/css/main.d65babe8.css",
-    "main.js": "/Inspire_Quote_app/static/js/main.587acaca.js",
-    "index.html": "/Inspire_Quote_app/index.html",
-    "main.d65babe8.css.map": "/Inspire_Quote_app/static/css/main.d65babe8.css.map",
-    "main.587acaca.js.map": "/Inspire_Quote_app/static/js/main.587acaca.js.map"
+    "main.css": "/Fcc_Drum/static/css/main.d65babe8.css",
+    "main.js": "/Fcc_Drum/static/js/main.587acaca.js",
+    "index.html": "/Fcc_Drum/index.html",
+    "main.d65babe8.css.map": "/Fcc_Drum/static/css/main.d65babe8.css.map",
+    "main.587acaca.js.map": "/Fcc_Drum/static/js/main.587acaca.js.map"
   },
   "entrypoints": [
     "static/css/main.d65babe8.css",
